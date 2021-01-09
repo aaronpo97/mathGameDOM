@@ -1,0 +1,24 @@
+{
+  "name": "mathGameDOM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayerble/mathGameDOM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayerble/mathGameDOM/issues"
+  },
+  "homepage": "https://github.com/ayerble/mathGameDOM#readme"
+}
